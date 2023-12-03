@@ -27,7 +27,19 @@
     <ClCompile Include="4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5.cpp">
+    <ClCompile Include="5 SearchNode Class.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Compulsory 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5 Heuristic Calculation Function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5 A-star Search Algorithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -131,7 +131,11 @@
     <ClCompile Include="2.cpp" />
     <ClCompile Include="3.cpp" />
     <ClCompile Include="4.cpp" />
-    <ClCompile Include="5.cpp" />
+    <ClCompile Include="5 Heuristic Calculation Function.cpp" />
+    <ClCompile Include="5 SearchNode Class.cpp" />
+    <ClCompile Include="5 A-star Search Algorithm.cpp" />
+    <ClCompile Include="Compulsory 2.cpp" />
+    <ClCompile Include="Task 5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

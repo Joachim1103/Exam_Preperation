@@ -26,13 +26,15 @@ public:
     }
 };
 
-// Function to check if an element exists in a vector
+// Function to check if an element exists in a queue
 template <typename T>
-bool exists(const vector<T>& vec, const T& element) {
-    for (const T& v : vec) {
-        if (v == element) {
+bool exists(const queue<T>& que, const T& element) {
+    queue<T> temp = que;
+    while (!temp.empty()) {
+        if (temp.front() == element) {
             return true;
         }
+        temp.pop();
     }
     return false;
 }
